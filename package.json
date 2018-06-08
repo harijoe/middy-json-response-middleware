@@ -1,0 +1,25 @@
+{
+  "name": "@harijoe/middy-json-response-middleware",
+  "version": "1.0.0",
+  "description": "Middleware for middy normalizing response to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harijoe/middy-json-response-middleware.git"
+  },
+  "keywords": [
+    "middy",
+    "json",
+    "middleware",
+    "response"
+  ],
+  "author": "Julien Vallini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harijoe/middy-json-response-middleware/issues"
+  },
+  "homepage": "https://github.com/harijoe/middy-json-response-middleware#readme"
+}
